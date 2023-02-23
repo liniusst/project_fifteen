@@ -1,7 +1,7 @@
 ## asd
 
-a = 500
-b = 1500
+a = 1500
+b = 500
 
 sum = a + b
 print(sum)
